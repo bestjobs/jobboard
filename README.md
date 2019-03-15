@@ -1,2 +1,2 @@
 # jobboard
-http://bestjobs.ga/
+https://www.bestjobs.ga/
